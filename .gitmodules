@@ -1,12 +1,12 @@
 [submodule "gutenberg"]
 	path = gutenberg
-	url = ../../WordPress/gutenberg.git
+	url = git@github.com:jhnstn/mockenberg.git
 	shallow = true
 [submodule "jetpack"]
 	path = jetpack
-	url = ../../Automattic/jetpack.git
+	url = git@github.com:Automattic/jetpack.git
 	shallow = true
 [submodule "block-experiments"]
 	path = block-experiments
-	url = ../../Automattic/block-experiments.git
+	url = git@github.com:Automattic/block-experiments.git
 	shallow = true
